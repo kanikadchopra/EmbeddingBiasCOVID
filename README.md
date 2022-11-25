@@ -12,4 +12,4 @@ This exploration includes investigating the associated bias for Asians in compar
 The data was collected using AYLIEN's COVID News dataset. 
 Data is presented in JSONL file format with one line per story object.
 
-Word lists were collected through a compilation of news articles and papers for COVID-19 and Hate Crime terms. Outsider adjectives and the larger list of general adjectives were used from the SI of __Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes__.
+Word lists were collected through a compilation of news articles and papers for COVID-19 and Hate Crime terms. Outsider adjectives and the larger list of general adjectives were used from the SI of _Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes_.
