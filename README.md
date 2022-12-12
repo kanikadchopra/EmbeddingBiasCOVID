@@ -18,3 +18,7 @@ To re-run all of the analyses:
 * Download the word lists from the data section
 * Download the embedding models from the `models` folder
 * Run the code in `embeddings_ethnicCategories.ipynb`, `embeddings_wordCategories.ipynb` and `embeddings_largeAdjectives.ipynb` to generate all of the analyses and plots 
+ 
+
+These notebooks are categorized into the three computational methods, first analyzing embedding bias with group vectors representing categories, secondly with group vectors representing categories and then lastly the sentiment analysis with a larger list of adjectives 
+
